@@ -1,0 +1,54 @@
+*{
+    font-style: normal;
+    color: wheat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
+.nav{    
+    border: solid 2px;
+    padding: 10px;
+    margin: -8px;
+    margin-top: 10px;
+    background-color: rgba(0, 0, 0, 0.332);
+}
+
+a:hover{
+    text-align: center;
+    font-size: 28px;
+    font-weight: 400;
+    color: chocolate;
+}
+
+a{
+    font-size: 28px;
+    padding: 5px;
+    text-decoration: none;
+}
+
+#bg{
+    background-image: url("https://images6.alphacoders.com/129/1291026.jpg");
+    background-size: cover;
+}
+
+#logo{
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    border-radius: 200px;
+    height: 90px;
+    width: 90px;
+}
+
+.collections{ 
+    height:500px; 
+    width:500px;
+}
+
+div.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid #73AD21;
+  }
